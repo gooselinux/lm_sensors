@@ -1,0 +1,5 @@
+sensors-detect
+sensord.init
+sensord.sysconfig
+lm_sensors.sysconfig
+lm_sensors-3.1.1.tar.bz2
